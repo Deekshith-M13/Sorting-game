@@ -128,6 +128,6 @@ Love sorting algos? Contribute by adding more sorts (e.g., Heap Sort), themes, o
 3. Commit changes (`git commit -m 'Add Heap Sort'`).
 4. Push and open a PR.
 
-Deekshith-M13 ([@yourgithub](https://github.com/Deekshith-M13)) – Main Developer.
+ ([Deekshith-M13](https://github.com/Deekshith-M13)) – Main Developer.
 
 
