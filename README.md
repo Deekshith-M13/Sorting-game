@@ -23,7 +23,7 @@ A interactive sorting algorithm visualizer built with Pygame. Watch Bubble, Inse
 
 ## Live Demo
 
-[[Play it live in your browser: [Sorting Visualizer Demo]([https://your-live-link-here.com](https://my-sorting-game.vercel.app/))](https://my-sorting-game.vercel.app/) ](https://my-sorting-game.vercel.app/)
+https://my-sorting-game.vercel.app/
 
 ## Architecture Overview
 
@@ -31,8 +31,6 @@ The app uses Pygame for rendering and event handling, with asyncio for non-block
 - **DrawInformation**: Manages the window, list scaling, and gradient colors for bars.
 - **Sorting Functions**: Async implementations of algorithms with visual pauses for step-by-step viewing.
 - **Main Loop**: Handles keyboard inputs and clock-based FPS control.
-
-*(Add your architecture diagram if available, or a simple flowchart: ![Flowchart](screenshots/flowchart.png).)*
 
 ## Prerequisites
 
@@ -132,10 +130,4 @@ Love sorting algos? Contribute by adding more sorts (e.g., Heap Sort), themes, o
 
 Yourusername (@yourgithub) – Main Developer.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. *(Add a LICENSE file with MIT boilerplate.)*
-
----
-
-*Built with ❤️ for algorithm enthusiasts. Questions? Open an issue!*
