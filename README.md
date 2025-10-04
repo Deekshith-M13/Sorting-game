@@ -18,12 +18,12 @@ A interactive sorting algorithm visualizer built with Pygame. Watch Bubble, Inse
 - **Customizable**: Generate random lists of varying sizes (default: 100 elements, 0-100 range).
 - **Performance Tweaks**: Reduced drawing frequency for smooth animation, even on lower-end devices.
 
-<img width="865" height="489" alt="Screenshot 2025-10-04 183928" src="https://github.com/user-attachments/assets/19cb2ed6-61dd-4021-a923-940eb80f5782" />
+
 
 
 ## Live Demo
 
-Play it live in your browser: [Sorting Visualizer Demo]([https://your-live-link-here.com](https://my-sorting-game.vercel.app/)) 
+[[Play it live in your browser: [Sorting Visualizer Demo]([https://your-live-link-here.com](https://my-sorting-game.vercel.app/))](https://my-sorting-game.vercel.app/) ](https://my-sorting-game.vercel.app/)
 
 ## Architecture Overview
 
@@ -98,6 +98,7 @@ Each sort visualizes comparisons and swaps:
 
 Watch the bars "dance" as they sort! Colors highlight active elements for better understanding.
 
+<img width="873" height="496" alt="Screenshot 2025-10-04 184325" src="https://github.com/user-attachments/assets/1c12c293-5932-4335-be88-a2bbc43195c2" />
 <img width="832" height="489" alt="Screenshot 2025-10-04 184026" src="https://github.com/user-attachments/assets/6c61bc23-3b24-4480-9399-9494aa6efa81" />
 <img width="865" height="489" alt="Screenshot 2025-10-04 183928" src="https://github.com/user-attachments/assets/1883c5f3-b6ab-4f4c-a7e6-758d67034306" />
 <img width="876" height="491" alt="Screenshot 2025-10-04 183841" src="https://github.com/user-attachments/assets/6b1c1df6-a6da-403b-88fc-35badb0f2c13" />
